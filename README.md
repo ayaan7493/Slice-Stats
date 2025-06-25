@@ -1,6 +1,5 @@
 # Slice-Stats
 SQL and POWER BI Project
-Absolutely, Ayaan! Here's a polished and professional README.md draft for your GitHub project Slice & Stats, based on the end-to-end SQL + Power BI data analyst portfolio walkthrough:
 
 📊 Slice & Stats
 Slice & Stats is a comprehensive end-to-end data analytics project that showcases the power of SQL and Power BI in transforming raw retail data into actionable business insights. Designed as a portfolio piece, this project demonstrates the full data analysis lifecycle—from data extraction and transformation to interactive dashboard creation.
